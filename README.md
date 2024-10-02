@@ -114,3 +114,4 @@ Conecte 5 switches em um loop fechado, criando uma topologia em anel.
 Conecte cada switch a um PC.
 
 Perceba que diferente de algumas vezes, nesse têm círculos laranja, eles significam que funciona, mas com um leve atraso no ping. Mas a rede funciona corretamente.
+# projeto-redes
